@@ -7,16 +7,14 @@
   <h1>Hi there 👋, I'm Mili Nouha</h1>
   <h3>🚀 2th-year Computer Engineering Student at ESPITA | Full-Stack Developer</h3>
 
+  <p><i>Specialized in building robust web applications, cloud solutions, and seamless user experiences.</i></p>
+
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,nodejs,express,postgresql,supabase,docker,git,tailwind,vscode,ubuntu" alt="Tech Stack" />
-
-  <br/><br/>
-
-  <h3>📊 GitHub Contributions & Streak</h3>
-  
+  <!-- Tech Stack -->
+  <h3>🛠️ Tech Stack & Skills</h3>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1mili&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,laravel,nodejs,express,postgresql,supabase,docker,git,tailwind,vscode,ubuntu" alt="Tech Stack" />
   </p>
 
 </div>
