@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mili Nouha</h1>
-<h3 align="center">4th-year Computer Engineering Student at ESPITA | Full-Stack Developer</h3>
+<h3 align="center">2th-year Computer Engineering Student at ESPITA | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://mili-nouha-portfolio.netlify.app/" target="_blank">
