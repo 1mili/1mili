@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/1mili/1mili/main/welcome-banner.png" alt="Welcome Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://i.pinimg.com/1200x/9f/db/bd/9fdbbd8988b4a9f999ef70e78232bed0.jpg" alt="Welcome Banner" width="100%" style="border-radius: 8px;" />
 
   <br/><br/>
 
