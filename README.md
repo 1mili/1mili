@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=1200&auto=format&fit=crop" alt="GitHub Header Banner" width="100%" style="border-radius: 8px;" />
+
+  <br/><br/>
+
   <h1>Hi there 👋, I'm Mili Nouha</h1>
   <h3>🚀 2th-year Computer Engineering Student at ESPITA | Full-Stack Developer</h3>
 
